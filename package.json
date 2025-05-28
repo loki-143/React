@@ -1,0 +1,29 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "A basic React Application of Lokesh",
+  "keywords": [
+    "react"
+  ],
+  "homepage": "https://github.com/loki-143/React#readme",
+  "bugs": {
+    "url": "https://github.com/loki-143/React/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loki-143/React.git"
+  },
+  "license": "ISC",
+  "author": "Lokesh",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.15.2"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
