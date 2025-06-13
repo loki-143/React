@@ -110,3 +110,28 @@
     padding: 0 20px;
     cursor:pointer;
 }
+
+.search-container
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+.search-input
+{
+    padding: 10px;
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+    width: 300px;
+    margin-right: 10px;
+}
+.search-btn
+{
+    padding: 10px 20px;
+    background-color: orange;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
